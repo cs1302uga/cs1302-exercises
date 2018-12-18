@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SUBMODULE="cs1302-$0"
+SUBMODULE="cs1302-$1"
 
 git pull origin master
 cd "$SUBMODULE"
