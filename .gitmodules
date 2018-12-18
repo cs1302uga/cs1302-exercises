@@ -1,0 +1,3 @@
+[submodule "cs1302-ce01"]
+	path = cs1302-ce01
+	url = git@github.com:cs1302uga/cs1302-ce01.git
