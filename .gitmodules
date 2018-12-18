@@ -1,0 +1,3 @@
+[submodule "cs1302-ce01"]
+	path = ce01
+	url = https://github.com/cs1302uga/cs1302-ce01
