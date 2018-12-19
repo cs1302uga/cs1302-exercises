@@ -1,6 +1,10 @@
 # Setup on MacOS
 
-The following instructions are designed to help get you up and running with macOS for development in CSCI 1302.
+The following instructions are designed to help get you up and running with macOS for development
+in CSCI 1302. The majority of the time, you will not be developing directly on your Mac. Instead,
+you will use your Mac to connect to a remote server via a terminal emulator. Once connected, the
+commands that you type and the programs that you run will be executed on the remote server instead
+of on your local machine.
 
 ## Open Terminal
 
@@ -32,7 +36,15 @@ on your Max via [Terminal](https://support.apple.com/guide/terminal/welcome/mac)
 
 2. **Install Homebrew.** Type the following command:
    ```
-   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   ```
+   The `$` denotes the shell prompt. In exampes like this, the `$` lets you know that the line
+   that follows is to be typed in your terminal emulator at the shell prompt, which usually ends
+   with `$` followed by a white-space. 
+
+3. **Install Utilities.** Type the following command:
+   ```
+   $ brew install git wget
    ```
    
 ## Install XQuartz
@@ -46,7 +58,7 @@ for remote programs that you write later in the semester to your local machine.
 
 2. **Install XQuartz.** Type the following command:
    ```
-   brew cask install xquartz
+   $ brew cask install xquartz
    ```
    
 3. **Restart your Mac.** The best way to restart your Mac is to choose Restart from the Apple () menu.
