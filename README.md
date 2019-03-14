@@ -12,6 +12,14 @@
 1. [`cs1302-ce10` Hierarchy Refactoring](https://github.com/cs1302uga/cs1302-ce10)
 1. [`cs1302-ce11` Lovable Linked Lists](https://github.com/cs1302uga/cs1302-ce11)
 1. [`cs1302-ce12` Subsumption Trade-offs](https://github.com/cs1302uga/cs1302-ce12)
+1. [`cs1302-ce13` Java Generics](https://github.com/cs1302uga/cs1302-ce13)
+1. [`cs1302-ce14` Genericize is a Real Word](https://github.com/cs1302uga/cs1302-ce14)
+1. [`cs1302-ce15` Genericize is Still a Real Word](https://github.com/cs1302uga/cs1302-ce15)
+1. [`cs1302-ce16` Gnarly to the Max](https://github.com/cs1302uga/cs1302-ce16)
+1. [`cs1302-ce17` Generic Method Implementation](https://github.com/cs1302uga/cs1302-ce17)
+1. [`cs1302-ce18` Generic Method Implementation](https://github.com/cs1302uga/cs1302-ce18)
+1. [`cs1302-ce19` ImageApp](https://github.com/cs1302uga/cs1302-ce19)
+1. [`cs1302-ce20` Fancy ImageApp](https://github.com/cs1302uga/cs1302-ce20)
 
 <hr/>
 
