@@ -20,6 +20,9 @@
 1. [`cs1302-ce18` Generic Method Implementation](https://github.com/cs1302uga/cs1302-ce18)
 1. [`cs1302-ce19` ImageApp](https://github.com/cs1302uga/cs1302-ce19)
 1. [`cs1302-ce20` Fancy ImageApp](https://github.com/cs1302uga/cs1302-ce20)
+1. [`cs1302-ce21` Fun with Components and Containers](https://github.com/cs1302uga/cs1302-ce21)
+1. [`cs1302-ce22` Loading...](https://github.com/cs1302uga/cs1302-ce22)
+1. [`cs1302-ce23` Java Stream API](https://github.com/cs1302uga/cs1302-ce23)
 
 <hr/>
 
