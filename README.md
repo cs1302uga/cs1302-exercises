@@ -23,6 +23,10 @@
 1. [`cs1302-ce21` Fun with Components and Containers](https://github.com/cs1302uga/cs1302-ce21)
 1. [`cs1302-ce22` Loading...](https://github.com/cs1302uga/cs1302-ce22)
 1. [`cs1302-ce23` Java Stream API](https://github.com/cs1302uga/cs1302-ce23)
+1. [`cs1302-ce24` Recursive Problems](https://github.com/cs1302uga/cs1302-ce24)
+1. [`cs1302-ce25` Applications of Recursion](https://github.com/cs1302uga/cs1302-ce25)
+1. [`cs1302-ce26` Tic-Tac-Toe Solver](https://github.com/cs1302uga/cs1302-ce26)
+1. [`cs1302-ce27` Paired Algorithm Analysis](https://github.com/cs1302uga/cs1302-ce27)
 
 <hr/>
 
