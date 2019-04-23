@@ -27,7 +27,7 @@
 1. [`cs1302-ce25` Applications of Recursion](https://github.com/cs1302uga/cs1302-ce25)
 1. [`cs1302-ce26` Tic-Tac-Toe Solver](https://github.com/cs1302uga/cs1302-ce26)
 1. [`cs1302-ce27` Paired Sorting Algorithm Analysis](https://github.com/cs1302uga/cs1302-ce27)
-1. [`cs1302-ce27` More Paired Sorting Algorithm Analysis](https://github.com/cs1302uga/cs1302-ce28)
+1. [`cs1302-ce28` More Paired Sorting Algorithm Analysis](https://github.com/cs1302uga/cs1302-ce28)
 
 <hr/>
 
