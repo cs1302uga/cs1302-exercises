@@ -1,4 +1,17 @@
-# cs1302-exercises
+# CSCI 1302 Class Exercises
+
+## Introduction 
+
+Learning computer science takes much more than pure memorization. Learning how
+to think like a computer scientist is a time consuming process, with the key
+word being "process". It requires active, engaged participation and questioning
+both in and out of class. To aid in this journey, the instructors of this 
+course will provide you with many opportunities to learn the material through 
+guided readings, active class exercises, and comprehensive project assignments,
+however, in the end you will have to do all of the hard work of actually learning 
+that material. This is not *self teaching*; instead, it is *guided active learning*.
+
+## Exercise List 
 
 1. [`cs1302-ce01` Unix Commands](https://github.com/cs1302uga/cs1302-ce01)
 1. [`cs1302-ce02` Command Line Compilation and Packages](https://github.com/cs1302uga/cs1302-ce02)
@@ -29,12 +42,22 @@
 1. [`cs1302-ce27` Paired Sorting Algorithm Analysis](https://github.com/cs1302uga/cs1302-ce27)
 1. [`cs1302-ce28` More Paired Sorting Algorithm Analysis](https://github.com/cs1302uga/cs1302-ce28)
 
+## How to Prepare
+
+The best way to prepare for the class exercises is to actively engage with the reading 
+quizzes, and the best way to prepare for the reading quizzes is to actively engage with 
+the reading. This means that you should actually try the things that you're reading about
+(e.g., commands, code, etc.), take notes as needed, and ask questions when things are unclear. 
+To get the most out of a reading, you should do this even if the reading is not directly 
+presented as a tutorial. Merely reading the words to prepare is rarely sufficient and is
+widely considered the least effective way to prepare.  
+
 <hr/>
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 <small>
-Copyright &copy; Michael E. Cotterell, Brad Barnes, and the University of Georgia.
+Copyright &copy; Michael E. Cotterell, Bradley J. Barnes, and the University of Georgia.
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a> to students and the public.
 The content and opinions expressed on this Web page do not necessarily reflect the views of nor are they endorsed by the University of Georgia or the University System of Georgia.
 </small>
