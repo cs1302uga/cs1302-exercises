@@ -41,6 +41,10 @@ that material. This is not *self teaching*; instead, it is *guided active learni
 1. [`cs1302-ce26` Tic-Tac-Toe Solver](https://github.com/cs1302uga/cs1302-ce26)
 1. [`cs1302-ce27` Paired Sorting Algorithm Analysis](https://github.com/cs1302uga/cs1302-ce27)
 1. [`cs1302-ce28` More Paired Sorting Algorithm Analysis](https://github.com/cs1302uga/cs1302-ce28)
+1. [`cs1302-ce29` Complexity Classes](https://github.com/cs1302uga/cs1302-ce29)
+1. [`cs1302-ce30` Social Network Graph Analytics](https://github.com/cs1302uga/cs1302-ce30)
+1. [`cs1302-ce31` More Social Network Graph Analytics](https://github.com/cs1302uga/cs1302-ce31)
+1. [`cs1302-ce32` Stream / Recursion Practice](https://github.com/cs1302uga/cs1302-ce32)
 
 ## How to Prepare
 
