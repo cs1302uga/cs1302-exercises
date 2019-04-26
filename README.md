@@ -58,7 +58,7 @@ widely considered the least effective way to prepare.
 
 <hr/>
 
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-nd/4.0/) [![DOI](https://zenodo.org/badge/162320460.svg)](https://zenodo.org/badge/latestdoi/162320460)
 
 <small>
 Copyright &copy; Michael E. Cotterell, Bradley J. Barnes, and the University of Georgia.
