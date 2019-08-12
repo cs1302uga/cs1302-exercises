@@ -14,6 +14,25 @@ called [MobaXterm](https://mobaxterm.mobatek.net).
 1. Download and install the free Home version of MobaXterm (Installer edition) at the following page:
    https://mobaxterm.mobatek.net/download-home-edition.html
 
+## Make sure Backspace Works Correctly
+
+MobaXterm oftentimes modifies the backspace key to send `C-h` instead of the backspace key.
+This can obviously cause problems if you're used to using the backspace key.
+To fix this issue, follow these steps:
+
+1. Open MobaXterm and launch a local terminal.
+
+1. **Do NOT connect to Nike yet!** Instead, type the commands below to download and 
+   rename a configuration file. You should only have to do this once.
+
+   ```
+   $ wget http://cobweb.cs.uga.edu/~mec/cs1302/mobaxterm.bashrc
+   $ mv mobaxterm.bashrc .bashrc
+   $ source .bashrc
+   ```
+1. Now, you should be able to `ssh` into Nike with MobaXterm and have your 
+   beautiful backspace work as intended!
+
 ## Setup Your Nike Account
 
 Once you have your Nike login information, follow the steps in
