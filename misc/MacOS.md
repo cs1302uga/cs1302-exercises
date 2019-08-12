@@ -65,5 +65,7 @@ for remote programs that you write later in the semester to your local machine.
 
 ## Setup Your Nike Account
 
-Once you have your Nike account information, see
-[How to Connect to Nike & First Steps](NikeSetup.md).
+Once you have your Nike login information, follow the steps in
+["How to Connect to Nike & First Steps"](NikeSetup.md) to ensure
+that your account is setup properly for this course. 
+**Failure to do this will cause problems with your course work.**
