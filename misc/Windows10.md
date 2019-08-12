@@ -14,3 +14,9 @@ called [MobaXterm](https://mobaxterm.mobatek.net).
 1. Download and install the free Home version of MobaXterm (Installer edition) at the following page:
    https://mobaxterm.mobatek.net/download-home-edition.html
 
+## Setup Your Nike Account
+
+Once you have your Nike login information, follow the steps in
+["How to Connect to Nike & First Steps"](NikeSetup.md) to ensure
+that your account is setup properly for this course. 
+**Failure to do this will cause problems with your course work.**
