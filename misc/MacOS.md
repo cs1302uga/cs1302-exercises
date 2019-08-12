@@ -63,3 +63,7 @@ for remote programs that you write later in the semester to your local machine.
    
 3. **Restart your Mac.** The best way to restart your Mac is to choose Restart from the Apple () menu.
 
+## Setup Your Nike Account
+
+Once you have your Nike account information, see
+[How to Connect to Nike & First Steps](NikeSetup.md).
