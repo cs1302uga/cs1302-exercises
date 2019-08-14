@@ -27,6 +27,17 @@ called [Terminal](https://support.apple.com/guide/terminal/welcome/mac).
    [Darwin](https://en.wikipedia.org/wiki/Darwin_(operating_system)). 
    Via Terminal, you can interact with your system using most Unix commands.
 
+## Use Option as Meta
+
+Some of the programs that you will use this semester will require the use of the META key. 
+On some systems, this is the same as the ESC or ALT key. On a Mac, you can set Terminal to 
+use the OPTION key as META. 
+
+1. **Open Terminal.**
+2. In the menu bar, click **File**, then click **Preferences**.
+3. In the window that appears, select the **Keyboard** tab in the pane that appears to the right.
+4. Near the bottom of the pane, check the box for **Use Option as Meta key.**
+
 ## Install Homebrew
 
 [Homebrew](https://brew.sh) is a package manager for MacOS. It makes it really easy to install programs
