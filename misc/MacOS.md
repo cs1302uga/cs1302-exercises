@@ -50,7 +50,7 @@ on your Max via [Terminal](https://support.apple.com/guide/terminal/welcome/mac)
    prepend the line with a `$` to denote the shell prompt. In exampes like this, the `$` lets you 
    know that the line that follows is to be typed in your terminal emulator at the shell prompt, 
    which usually ends with `$` followed by a white-space. 
-   **Do not type or copy this first `$` as it is not part of the command.*
+   **Do not type or copy this first `$` as it is not part of the command.**
 
    To install Homebrew, type the following command:
    ```
