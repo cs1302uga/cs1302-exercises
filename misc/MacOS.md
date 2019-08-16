@@ -45,13 +45,17 @@ on your Max via [Terminal](https://support.apple.com/guide/terminal/welcome/mac)
 
 1. **Open Terminal.**
 
-2. **Install Homebrew.** Type the following command:
+2. **Install Homebrew.** 
+   To do this, you will need to type a command at the prompt. When presenting such commands, we often
+   prepend the line with a `$` to denote the shell prompt. In exampes like this, the `$` lets you 
+   know that the line that follows is to be typed in your terminal emulator at the shell prompt, 
+   which usually ends with `$` followed by a white-space. 
+   **Do not type or copy this first `$` as it is not part of the command.*
+
+   To install Homebrew, type the following command:
    ```
    $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
    ```
-   The `$` denotes the shell prompt. In exampes like this, the `$` lets you know that the line
-   that follows is to be typed in your terminal emulator at the shell prompt, which usually ends
-   with `$` followed by a white-space. 
 
 3. **Install Utilities.** Type the following command:
    ```
