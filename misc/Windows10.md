@@ -11,8 +11,13 @@ of on your local machine.
 For Windows 10, we recommend the use of a [terminal emulator](https://en.wikipedia.org/wiki/Terminal_emulator)
 called [MobaXterm](https://mobaxterm.mobatek.net). 
 
-1. Download and install the free Home version of MobaXterm (Installer edition) at the following page:
-   https://mobaxterm.mobatek.net/download-home-edition.html
+1. Download and install the free Home version of MobaXterm (Installer edition) at the link presented below:
+
+   **WARNING:** If you download a `.zip` file for one of the MobaXterm installers, then you need to fully
+   extract the `.zip` file into a folder before attempting to install. Do not attempt to run the installer
+   from within the `.zip` file. Instead, run the installer program from within the folder that you extract to. 
+
+   MobaXterm Website: https://mobaxterm.mobatek.net/download-home-edition.html
 
 ## Make sure Backspace Works Correctly
 
