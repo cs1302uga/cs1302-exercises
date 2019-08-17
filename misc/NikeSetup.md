@@ -42,7 +42,7 @@ If you don't understand an instruction, the please ask in a follow-up discussion
    https://youtu.be/zWQBqCSexQ0
 
    <a href="https://www.youtube.com/watch?v=zWQBqCSexQ0">
-   <img src="https://img.youtube.com/vi/zWQBqCSexQ0/0.jpg?20190817" alt="IMAGE ALT TEXT">
+   <img src="https://img.youtube.com/vi/zWQBqCSexQ0/0.jpg?20190817_0" alt="IMAGE ALT TEXT">
    </a>
    
 
