@@ -37,7 +37,14 @@ If you don't understand an instruction, the please ask in a follow-up discussion
 1. Login to Nike
 
 1. Open (or create if it does not exist) your `~/.bash_profile` file using Emacs or Vi.
-   **If you're not sure how to do this, then ask!**
+   **If you're not sure how to do this, then see this video:**
+   
+   https://youtu.be/zWQBqCSexQ0
+
+   <a href="https://www.youtube.com/watch?v=zWQBqCSexQ0">
+   <img src="https://img.youtube.com/vi/zWQBqCSexQ0/0.jpg?20190817" alt="IMAGE ALT TEXT">
+   </a>
+   
 
 1. Copy and paste the following into the bottom of the file (i.e., the following will become
    the contents of the file; if you simply paste this into the terminal at the prompt,
