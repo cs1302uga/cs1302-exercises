@@ -1,9 +1,0 @@
-[submodule "cs1302-ce01"]
-	path = cs1302-ce01
-	url = https://github.com/cs1302uga/cs1302-ce01.git
-[submodule "cs1302-ce02"]
-	path = cs1302-ce02
-	url = https://github.com/cs1302uga/cs1302-ce02.git
-[submodule "cs1302-ce03"]
-	path = cs1302-ce03
-	url = https://github.com/cs1302uga/cs1302-ce03.git
