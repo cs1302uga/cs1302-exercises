@@ -56,9 +56,17 @@ To get the most out of a reading, you should do this even if the reading is not 
 presented as a tutorial. Merely reading the words to prepare is rarely sufficient and is
 widely considered the least effective way to prepare.  
 
+## Publication History
+
+| DOI | Tag | Date | Description |
+|-----|-----|------|-------------|
+| [10.5281/zenodo.2652509](https://doi.org/10.5281/zenodo.2652509) | NA        | NA           | All Versions |
+| [10.5281/zenodo.3579498](https://doi.org/10.5281/zenodo.3579498) | `v2019fa` | Dec 16, 2019 | Fall 2019    |
+| [10.5281/zenodo.2652510](https://doi.org/10.5281/zenodo.2652510) | `v2019sp` | Apr 26, 2019 | Spring 2019  |
+
 <hr/>
 
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-nd/4.0/) [![DOI](https://zenodo.org/badge/162320460.svg)](https://zenodo.org/badge/latestdoi/162320460)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-nd/4.0/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2652509.svg)](https://doi.org/10.5281/zenodo.2652509)
 
 <small>
 Copyright &copy; Michael E. Cotterell, Bradley J. Barnes, and the University of Georgia.
