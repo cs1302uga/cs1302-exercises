@@ -1,6 +1,8 @@
 # How to Connect to Odin & First Steps
 
-Most of your work this semester will be done on the departmental server, Odin.
+![Approved for: Fall 2020](https://img.shields.io/badge/Approved%20for-Fall%202020-blueviolet)
+
+Almost all of your work this semester will be done on the departmental server, Odin.
 In order to login to Odin, you will first need to connect to UGA's remote access
 VPN. Instructions on how to connect to the VPN are found [here](https://eits.uga.edu/access_and_security/infosec/tools/vpn/).
 
@@ -31,16 +33,14 @@ If you don't understand an instruction, the please ask in a for clarification on
  
 1. Login to Odin
 
-<!--
 1. Open (or create if it does not exist) your `~/.bash_profile` file using Emacs or Vi.
    **If you're not sure how to do this, then see this video:**
    
-   https://youtu.be/zWQBqCSexQ0
+   https://youtu.be/NieAaC23-3U
 
-   <a href="https://www.youtube.com/watch?v=zWQBqCSexQ0">
+   <a href="https://www.youtube.com/watch?v=NieAaC23-3U">
    <img src="https://img.youtube.com/vi/zWQBqCSexQ0/0.jpg?20190817_0" alt="IMAGE ALT TEXT">
    </a>
--->
 
 1. Copy and paste the following into the bottom of the file (i.e., the following will become
    the contents of the file; if you simply paste this into the terminal at the prompt,
