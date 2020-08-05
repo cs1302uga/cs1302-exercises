@@ -27,7 +27,7 @@ To fix this issue, follow these steps:
 
 1. Open MobaXterm and launch a local terminal.
 
-1. **Do NOT connect to Nike yet!** Instead, type the commands below to download and 
+1. **Do NOT connect to Odin yet!** Instead, type the commands below to download and 
    rename a configuration file. You should only have to do this once.
 
    ```
@@ -35,12 +35,12 @@ To fix this issue, follow these steps:
    $ mv mobaxterm.bashrc .bashrc
    $ source .bashrc
    ```
-1. Now, you should be able to `ssh` into Nike with MobaXterm and have your 
+1. Now, you should be able to `ssh` into Odin with MobaXterm and have your 
    beautiful backspace work as intended!
 
-## Setup Your Nike Account
+## Setup Your Odin Account
 
-Once you have your Nike login information, follow the steps in
-["How to Connect to Nike & First Steps"](NikeSetup.md) to ensure
+Once you have your Odin login information, follow the steps in
+["How to Connect to Odin & First Steps"](OdinSetup.md) to ensure
 that your account is setup properly for this course. 
 **Failure to do this will cause problems with your course work.**
