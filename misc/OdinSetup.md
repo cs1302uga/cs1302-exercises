@@ -23,7 +23,7 @@ You can see what it is with the `pwd` command. Now you can practice the commands
 from the reading. While connected, the commands that you execute will occur remotely 
 on the Odin server. To exit, you may use the `exit` or `logout` commands. 
  
-## Setting up Java and Custom Prompt on Nike
+## Setting up Java and Custom Prompt on Odin
  
 You are required to follow the steps below for this class. 
 Please read them very carefully. You only need to do these once at the beginning of the semester. 
