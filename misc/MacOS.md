@@ -1,5 +1,7 @@
 # Setup on MacOS
 
+![Approved for: Fall 2020](https://img.shields.io/badge/Approved%20for-Fall%202020-blueviolet)
+
 The following instructions are designed to help get you up and running with macOS for development
 in CSCI 1302. The majority of the time, you will not be developing directly on your Mac. Instead,
 you will use your Mac to connect to a remote server via a terminal emulator. Once connected, the
@@ -78,9 +80,9 @@ for remote programs that you write later in the semester to your local machine.
    
 3. **Restart your Mac.** The best way to restart your Mac is to choose Restart from the Apple () menu.
 
-## Setup Your Nike Account
+## Setup Your Odin Account
 
-Once you have your Nike login information, follow the steps in
-["How to Connect to Nike & First Steps"](NikeSetup.md) to ensure
+Once you have your Odin login information, follow the steps in
+["How to Connect to Odin & First Steps"](OdinSetup.md) to ensure
 that your account is setup properly for this course. 
 **Failure to do this will cause problems with your course work.**
