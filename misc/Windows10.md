@@ -1,5 +1,7 @@
 # Setup on Windows 10
 
+![Approved for: Fall 2020](https://img.shields.io/badge/Approved%20for-Fall%202020-blueviolet)
+
 The following instructions are designed to help get you up and running with Windows 10 PC for development
 in CSCI 1302. The majority of the time, you will not be developing directly on your PC. Instead,
 you will use your PC to connect to a remote server via a terminal emulator. Once connected, the
