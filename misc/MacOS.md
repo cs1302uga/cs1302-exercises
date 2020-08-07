@@ -36,7 +36,7 @@ On some systems, this is the same as the ESC or ALT key. On a Mac, you can set T
 use the OPTION key as META. 
 
 1. **Open Terminal.**
-2. In the menu bar, click **File**, then click **Preferences**.
+2. In the menu bar, click **Terminal**, then click **Preferences**.
 3. In the window that appears, select the **Keyboard** tab in the pane that appears to the right.
 4. Near the bottom of the pane, check the box for **Use Option as Meta key.**
 
