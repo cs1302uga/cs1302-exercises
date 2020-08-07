@@ -6,6 +6,9 @@ Almost all of your work this semester will be done on the departmental server, O
 In order to login to Odin, you will first need to connect to UGA's remote access
 VPN. Instructions on how to connect to the VPN are found [here](https://eits.uga.edu/access_and_security/infosec/tools/vpn/).
 
+**Note:** The CSCI support staff have recommended connecting to `remote2.uga.edu` instead of
+`remote.uga.edu` to reduce network lag and improve your experience on `Odin`.
+
 Your username on Odin is your MyID and the password is the same one that is associated
 with your MyID. Once you are successfully logged into the VPN, open up a local terminal 
 in your terminal emulator and execute the following command to connect:
