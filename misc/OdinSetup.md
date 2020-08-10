@@ -42,7 +42,7 @@ If you don't understand an instruction, the please ask in a for clarification on
    https://youtu.be/NieAaC23-3U
 
    <a href="https://www.youtube.com/watch?v=NieAaC23-3U">
-   <img src="https://i9.ytimg.com/vi/NieAaC23-3U/mq3.jpg?sqp=CPCAsfkF&rs=AOn4CLCDiWcj2DPnB9-YCbPKyNKiC8cNfA" alt="IMAGE ALT TEXT">
+   <img src="https://i9.ytimg.com/vi/NieAaC23-3U/mq3.jpg?sqp=CKSdxvkF&rs=AOn4CLAHBVn9_MhKJ38XBoJ1a6rM7_qrfwfA" alt="IMAGE ALT TEXT">
    </a>
 
 1. Copy and paste the following into the bottom of the file (i.e., the following will become
