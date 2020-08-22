@@ -45,12 +45,14 @@ If you don't understand an instruction, the please ask in a for clarification on
    <img src="http://i3.ytimg.com/vi/NieAaC23-3U/hqdefault.jpg" alt="IMAGE ALT TEXT">
    </a>
 
-1. Copy and paste the following into the bottom of the file (i.e., the following will become
+1. Copy and paste the following lines into the bottom of the file (i.e., the following will become
    the contents of the file; if you simply paste this into the terminal at the prompt,
    then the desired changes will not persist):
 
    ```
    CS1302=/usr/local/mepcott/cs1302.profile; [[ -f $CS1302 ]] && . $CS1302
+
+   alias emacs='emacs -nw'
    ```
 
 1. Save your `~/.bash_profile` file, then exit your text editor.
