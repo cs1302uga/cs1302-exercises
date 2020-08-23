@@ -51,8 +51,6 @@ If you don't understand an instruction, the please ask in a for clarification on
 
    ```
    CS1302=/usr/local/mepcott/cs1302.profile; [[ -f $CS1302 ]] && . $CS1302
-
-   alias emacs='emacs -nw'
    ```
 
 1. Save your `~/.bash_profile` file, then exit your text editor.
