@@ -43,7 +43,7 @@ use the OPTION key as META.
 ## Install Homebrew
 
 [Homebrew](https://brew.sh) is a package manager for MacOS. It makes it really easy to install programs
-on your Max via [Terminal](https://support.apple.com/guide/terminal/welcome/mac). 
+on your Mac via [Terminal](https://support.apple.com/guide/terminal/welcome/mac). 
 
 1. **Open Terminal.**
 
