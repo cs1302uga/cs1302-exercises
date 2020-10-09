@@ -64,7 +64,7 @@ widely considered the least effective way to prepare.
 | [10.5281/zenodo.3579498](https://doi.org/10.5281/zenodo.3579498) | `v2019fa` | Dec 16, 2019 | Fall 2019    |
 | [10.5281/zenodo.2652510](https://doi.org/10.5281/zenodo.2652510) | `v2019sp` | Apr 26, 2019 | Spring 2019  |
 
-<hr/>
+## License
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-nd/4.0/) [![License: CC BY-NC 4.0](https://img.shields.io/badge/Instructor%20License-CC%20BY--NC%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc/4.0/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2652509.svg)](https://doi.org/10.5281/zenodo.2652509)
 
