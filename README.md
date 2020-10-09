@@ -13,6 +13,7 @@ that material. This is not *self teaching*; instead, it is *guided active learni
 
 ## Exercise List 
 
+1. [`cs1302-ce00` Review Exercise](https://github.com/cs1302uga/cs1302-ce00)
 1. [`cs1302-ce01` Unix Commands](https://github.com/cs1302uga/cs1302-ce01)
 1. [`cs1302-ce02` Command Line Compilation and Packages](https://github.com/cs1302uga/cs1302-ce02)
 1. [`cs1302-ce03` Multiuser System Fun Times](https://github.com/cs1302uga/cs1302-ce03)
