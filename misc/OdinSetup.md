@@ -1,6 +1,6 @@
 # How to Connect to Odin & First Steps
 
-![Approved for: Fall 2020](https://img.shields.io/badge/Approved%20for-Fall%202020-blueviolet)
+![Approved for: Spring 2021](https://img.shields.io/badge/Approved%20for-Spring%202021-success)
 
 Almost all of your work this semester will be done on the departmental server, Odin.
 In order to login to Odin, you will first need to connect to UGA's remote access
