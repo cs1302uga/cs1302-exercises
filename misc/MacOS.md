@@ -54,7 +54,8 @@ on your Mac via [Terminal](https://support.apple.com/guide/terminal/welcome/mac)
    which usually ends with `$` followed by a white-space. 
    **Do not type or copy this first `$` as it is not part of the command.**
 
-   To install Homebrew, type the following command:
+   When installing Homebrew, it may ask you for a password. This is the password for your Mac.
+   To begin the installation, type the following command:
    ```
    $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
    ```
@@ -75,7 +76,7 @@ for remote programs that you write later in the semester to your local machine.
 
 2. **Install XQuartz.** Type the following command:
    ```
-   $ brew cask install xquartz
+   $ brew install --cask xquartz
    ```
    
 3. **Restart your Mac.** The best way to restart your Mac is to choose Restart from the Apple () menu.
