@@ -50,7 +50,7 @@ by doing the following steps:
    1. Select "Settings" from the menu bar, then "Keyboard shortcuts".
    1. In the window that appears, find and select "Execute a macro".
    1. Once selected, find the "Edit keyboard shortcut" dropdown list and 
-      change it to "" (which should be at the top of the list).
+      change it to "" or `<none>` (which should be at the top of the list).
    1. Select "OK". The issue should now be resolved.
    
 ## Setup Your Odin Account
