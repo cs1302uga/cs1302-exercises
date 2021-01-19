@@ -40,31 +40,18 @@ To fix this issue, follow these steps:
 1. Now, you should be able to `ssh` into Odin with MobaXterm and have your 
    beautiful backspace work as intended!
 
-## Setup Ctrl-SPACE
+## Setup Ctrl-SPACE and Ctrl-X
 
-In newer versions of MobaXterm, holding `Ctrl` and then pressing the spacebar triggers
-the MobaXterm macro system. This will cause problems when it comes time to work in Emacs
-as we will use `Ctrl-SPACE` to mark text to copy. Please update your MobaXterm settings
-by doing the following steps:
-
-   1. Select "Settings" from the menu bar, then "Keyboard shortcuts".
-   1. In the window that appears, find and select "Execute a macro".
-   1. Once selected, find the "Edit keyboard shortcut" dropdown list and 
-      change it to "" or `<none>` (which should be at the top of the list).
-   1. Select "OK". The issue should now be resolved.
-   
-## Setup Ctrl-X
-
-In newer versions of MobaXterm, `Ctrl+X` may be mapped to a shortcut. This will cause 
-problems when it comes time to work in Emacs as we will use `Ctrl-X` quite often.
-
-Please update your MobaXterm settings
-by doing the following steps:
+In newer versions of MobaXterm, `Ctrl-SPACE` and `Ctrl+X` may be mapped to 
+MobaXterm-specific shortcuts. This will cause problems when it comes time to 
+work in Emacs as those key combinations are used quite often. Please update 
+your MobaXterm settings by doing the following steps:
 
    1. Select "Settings" from the menu bar, then "Keyboard shortcuts".
-   1. In the window that appears, find and select the shortcut for "Ctrl-X".
+   1. In the window that appears, find and select the shortcut for "Ctrl-SPACE".
    1. Once selected, find the "Edit keyboard shortcut" dropdown list and 
       change it to "" or `<none>` (which should be at the top of the list).
+   1. Repeat the previous step on the shortcut for "Ctrl-X".
    1. Select "OK". The issue should now be resolved.
    
 ## Setup Your Odin Account
