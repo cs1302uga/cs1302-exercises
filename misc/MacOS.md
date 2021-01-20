@@ -65,6 +65,10 @@ on your Mac via [Terminal](https://support.apple.com/guide/terminal/welcome/mac)
    $ brew install git wget
    ```
    
+   **If you run into issues with `brew install`**, then please try running `brew doctor` first to see
+   if it has a suggested fix. If it does, then try the fix. If it doesn't or if it does but that doesn't
+   resolve your issue, then you may need to ask Piazza or see instructor during office hours. 
+   
 ## Install XQuartz
 
 [XQuartz](https://www.xquartz.org) is an open-source version of the 
