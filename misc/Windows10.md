@@ -40,9 +40,9 @@ To fix this issue, follow these steps:
 1. Now, you should be able to `ssh` into Odin with MobaXterm and have your 
    beautiful backspace work as intended!
 
-## Setup Ctrl-SPACE and Ctrl-X
+## Setup `Ctrl-<SPACE>` and `Ctrl-X`
 
-In newer versions of MobaXterm, `Ctrl-SPACE` and `Ctrl+X` may be mapped to 
+In newer versions of MobaXterm, `Ctrl-<SPACE>` and `Ctrl-X` may be mapped to 
 MobaXterm-specific shortcuts. This will cause problems when it comes time to 
 work in Emacs as those key combinations are used quite often. Please update 
 your MobaXterm settings by doing the following steps:
