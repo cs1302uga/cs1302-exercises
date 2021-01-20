@@ -8,6 +8,17 @@ you will use your Mac to connect to a remote server via a terminal emulator. Onc
 commands that you type and the programs that you run will be executed on the remote server instead
 of on your local machine.
 
+## Setup `Ctrl-<SPACE>` 
+
+If typing `Ctrl-<SPACE>` (i.e., `⌃Space`) changes your keyboard layout, then you will need to
+adjust some settings as that keyboard shortcut is used heavily in one of the programs we'll
+be using this semester. **If it doesn't, then you can skip to the next section.**
+
+To fix `Ctrl-<SPACE>`, go to the "Keyboard Settings" for your Mac, then select the
+"Shortcuts" tab. Find the shortcut that is mapped to `⌃Space` and either change it
+or disable it. Once you've made the change, you should be all set as far as 
+`Ctrl-<SPACE>` is concerned.
+
 ## Open Terminal
 
 MacOS comes with a [terminal emulator](https://en.wikipedia.org/wiki/Terminal_emulator)
