@@ -1,6 +1,6 @@
 # How to Connect to Odin & First Steps
 
-![Approved for: Spring 2021](https://img.shields.io/badge/Approved%20for-Spring%202021-success)
+![Approved for: Fall 2021](https://img.shields.io/badge/Approved%20for-Fall%202021-blue)
 
 Almost all of your work this semester will be done on the departmental server, Odin.
 In order to login to Odin, you will first need to connect to UGA's remote access
@@ -37,7 +37,9 @@ If you don't understand an instruction, the please ask in a for clarification on
 1. Login to Odin
 
 1. Open (or create if it does not exist) your `~/.bash_profile` file using Emacs or Vi.
-   **If you're not sure how to do this, then see this video:**
+   **If you're not sure how to do this, then see the video below. Please note that we do not recreate
+   this video each semester. The output from the instructor's screen may be slightly different from yours as
+   we update to newer software versions regularly. However, the overall steps remain the same.**
    
    https://youtu.be/NieAaC23-3U
 
@@ -63,14 +65,14 @@ If you don't understand an instruction, the please ask in a for clarification on
 
    ```
    $ java -version
-   java version "11.0.8" 2020-07-14 LTS
-   Java(TM) SE Runtime Environment 18.9 (build 11.0.8+10-LTS)
-   Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.8+10-LTS, mixed mode)
+   java version "11.0.10" 2021-01-19 LTS
+   Java(TM) SE Runtime Environment 18.9 (build 11.0.10+8-LTS-162)
+   Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.10+8-LTS-162, mixed mode)
    ```
    
    ```
    $ javac -version
-   javac 11.0.8
+   javac 11.0.10
    ```
 
 1. That's it! You're good to go. If you have any problems, please ask on Piazza.
