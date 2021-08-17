@@ -1,4 +1,4 @@
-# Setup on MacOS
+# Setup on macOS
 
 ![Approved for: Spring 2021](https://img.shields.io/badge/Approved%20for-Spring%202021-success)
 
@@ -21,7 +21,7 @@ or disable it. Once you've made the change, you should be all set as far as
 
 ## Open Terminal
 
-MacOS comes with a [terminal emulator](https://en.wikipedia.org/wiki/Terminal_emulator)
+The macOS operating system comes with a [terminal emulator](https://en.wikipedia.org/wiki/Terminal_emulator)
 called [Terminal](https://support.apple.com/guide/terminal/welcome/mac).
 
 1. **Open Terminal.** On your Mac, do one of the following:
