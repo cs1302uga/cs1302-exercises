@@ -95,10 +95,3 @@ for remote programs that you write later in the semester to your local machine.
    ```
    
 3. **Restart your Mac.** The best way to restart your Mac is to choose Restart from the Apple () menu.
-
-## Setup Your Odin Account
-
-Once you have your Odin login information, follow the steps in
-["How to Connect to Odin & First Steps"](OdinSetup.md) to ensure
-that your account is setup properly for this course. 
-**Failure to do this will cause problems with your course work.**
