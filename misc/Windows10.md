@@ -21,9 +21,9 @@ called [MobaXterm](https://mobaxterm.mobatek.net).
 
    MobaXterm Website: https://mobaxterm.mobatek.net/download-home-edition.html
 
-## Make sure Backspace Works Correctly
+## Setup Backspace (Required)
 
-MobaXterm often times modifies the backspace key to send `C-h` instead of the backspace key.
+MobaXterm often modifies the backspace key to send `C-h` instead of the backspace key.
 This can obviously cause problems if you're used to using the backspace key.
 To fix this issue, follow these steps:
 
@@ -40,7 +40,7 @@ To fix this issue, follow these steps:
 1. Now, you should be able to `ssh` into Odin with MobaXterm and have your 
    beautiful backspace work as intended!
 
-## Setup `Ctrl-<SPACE>` and `Ctrl-X`
+## Setup `Ctrl-<SPACE>` and `Ctrl-X` (Required)
 
 In newer versions of MobaXterm, `Ctrl-<SPACE>` and `Ctrl-X` may be mapped to 
 MobaXterm-specific shortcuts. This will cause problems when it comes time to 
