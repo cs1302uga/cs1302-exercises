@@ -95,3 +95,20 @@ for remote programs that you write later in the semester to your local machine.
    ```
    
 3. **Restart your Mac.** The best way to restart your Mac is to choose Restart from the Apple () menu.
+
+**Feedback?** 
+Please help us make this better!
+If you have any feedback or suggestions for this reading or tutorial, then use 
+the link below to reach the feedback form.
+
+[![Submit Feedback](https://img.shields.io/badge/-Submit&nbsp;Feedback-red.svg?style=for-the-badge)](https://docs.google.com/forms/d/e/1FAIpQLSfBgZM_-G-9nKmX7F83k0Tgp1OlqBnrkt6vsxlIqLypc_keUQ/viewform?usp=pp_url&entry.1081181680=cs1302-refresher-variables&entry.1901270436=https://github.com/cs1302uga/cs1302-tutorials/blob/master/refresher/variables.md)
+
+<hr/>
+
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+<small>
+Copyright &copy; Michael E. Cotterell, Bradley J. Barnes, and the University of Georgia.
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a> to students and the public.
+The content and opinions expressed on this Web page do not necessarily reflect the views of nor are they endorsed by the University of Georgia or the University System of Georgia.
+</small>
