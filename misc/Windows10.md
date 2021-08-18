@@ -23,7 +23,7 @@ called [MobaXterm](https://mobaxterm.mobatek.net).
 
 ## Make sure Backspace Works Correctly
 
-MobaXterm oftentimes modifies the backspace key to send `C-h` instead of the backspace key.
+MobaXterm often times modifies the backspace key to send `C-h` instead of the backspace key.
 This can obviously cause problems if you're used to using the backspace key.
 To fix this issue, follow these steps:
 
