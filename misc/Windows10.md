@@ -44,16 +44,16 @@ To fix this issue, follow these steps:
 
 ## Setup `Ctrl-<SPACE>` and `Ctrl-X` (Required)
 
-In newer versions of MobaXterm, `Ctrl-<SPACE>` and `Ctrl-X` may be mapped to
-MobaXterm-specific shortcuts. This will cause problems when it comes time to
+In newer versions of MobaXterm, `Ctrl-<SPACE>` (`Ctrl + SPACE`) and `Ctrl-X` (`Ctrl + Shift + X`) 
+may be mapped to MobaXterm-specific shortcuts. This will cause problems when it comes time to
 work in Emacs as those key combinations are used quite often. Please update
 your MobaXterm settings by doing the following steps:
 
    1. Select "Settings" from the menu bar, then "Keyboard shortcuts".
-   1. In the window that appears, find and select the shortcut for "Ctrl-SPACE".
+   1. In the window that appears, find and select the shortcut for "Ctrl-SPACE" or "Ctrl + SPACE".
    1. Once selected, find the "Edit keyboard shortcut" dropdown list and
       change it to "" or `<none>` (which should be at the top of the list).
-   1. Repeat the previous step on the shortcut for "Ctrl-X".
+   1. Repeat the previous step on the shortcut for "Ctrl-X" or "Ctrl + Shift + X".
    1. Select "OK". The issue should now be resolved.
 
 <hr/>
