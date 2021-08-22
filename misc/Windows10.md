@@ -33,6 +33,9 @@ To fix this issue, follow these steps:
 
 1. **Do NOT connect to Odin yet!** Instead, type the commands below to download and
    rename a configuration file. You should only have to do this once.
+   
+   **NOTE:** Do not type or copy/paste the `$` in the commands below. They
+   refer to the prompt itself.
 
    ```
    $ wget http://cobweb.cs.uga.edu/~mec/cs1302/mobaxterm.bashrc
