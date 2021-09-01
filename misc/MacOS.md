@@ -29,7 +29,7 @@ called [Terminal](https://support.apple.com/guide/terminal/welcome/mac).
      <img src="https://help.apple.com/assets/5B9190B30946221279C5A608/5B9190B30946221279C5A60F/en_US/3cc1cbefea3e97e575172177e505b7a9.png" width="15" height="15">
      in the Dock, type `Terminal` in the search field, then click **Terminal**.
    * Click the Spotlight icon 
-     <img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/il/macos-spotlight-search-menu-bar-icon.png" width="15" height="15">
+     <img src="https://help.apple.com/assets/605932B4A1B7A93F492858E8/605932C0A1B7A93F492858FF/en_US/bb4de0babc81c7fedb3e9663d00d7a3a.png" width="15" height="15">
      in the upper-right corner of the menu bar (or press Command-Space), type `Terminal` in the search field, 
      then click **Terminal**.
    * In the Finder 
