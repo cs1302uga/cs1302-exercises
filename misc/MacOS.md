@@ -50,6 +50,8 @@ use the OPTION key as META.
 2. In the menu bar, click **Terminal**, then click **Preferences**.
 3. In the window that appears, select the **Keyboard** tab in the pane that appears to the right.
 4. Near the bottom of the pane, check the box for **Use Option as Meta key.**
+5. Quit the **Terminal** app by selecting **Quit Terminal** from the **File** menu (or by
+   pressing ⌘Q). The setting should take effect the next time you open **Terminal**. 
 
 ## Install Homebrew
 
