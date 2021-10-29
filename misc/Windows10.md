@@ -1,12 +1,12 @@
-# Setup on Windows 10
+# Setup on Windows 10 & 11
 
 ![Approved for: Fall 2021](https://img.shields.io/badge/Approved%20for-Fall%202021-blue)
 
-The following instructions are designed to help get you up and running with Windows 10 PC for development
-in CSCI 1302. The majority of the time, you will not be developing directly on your PC. Instead,
-you will use your PC to connect to a remote server via a terminal emulator. Once connected, the
-commands that you type and the programs that you run will be executed on the remote server instead
-of on your local machine.
+The following instructions are designed to help get you up and running with a Windows 10 or 11
+PC for development in CSCI 1302. The majority of the time, you will not be developing directly on 
+your PC. Instead, you will use your PC to connect to a remote server via a terminal emulator. Once 
+connected, the commands that you type and the programs that you run will be executed on the remote 
+server instead of on your local machine.
 
 ## Install MobaXterm
 
