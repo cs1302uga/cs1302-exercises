@@ -1,6 +1,6 @@
 # How to Connect to Nike & First Steps
 
-![DEPRECATED](https://img.shields.io/badge/Deprecated%20Do%20Not%20Use-warning)
+![DEPRECATED](https://img.shields.io/badge/Deprecated-Do%20Not%20Use-warning)
 
 Once you have your login information for Nike, open up a local terminal 
 in your terminal emulator and execute the following command to connect:
