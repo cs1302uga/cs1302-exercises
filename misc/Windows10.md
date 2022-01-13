@@ -26,24 +26,17 @@ called [MobaXterm](https://mobaxterm.mobatek.net).
 ## Setup Backspace (Required)
 
 MobaXterm often modifies the backspace key to send `C-h` instead of the backspace key.
-This can obviously cause problems if you're used to using the backspace key.
+This can cause problems if you're used to using the backspace key.
 To fix this issue, follow these steps:
 
-1. Open MobaXterm and launch a local terminal.
-
-1. **Do NOT connect to Odin yet!** Instead, type the commands below to download and
-   rename a configuration file. You should only have to do this once.
-   
-   **NOTE:** Do not type or copy/paste the `$` in the commands below. They
-   refer to the prompt itself.
-
-   ```
-   $ wget http://cobweb.cs.uga.edu/~mec/cs1302/mobaxterm.bashrc
-   $ mv mobaxterm.bashrc .bashrc
-   $ source .bashrc
-   ```
-1. Now, you should be able to `ssh` into Odin with MobaXterm and have your
-   beautiful backspace work as intended!
+1. Open **MobaXterm**.
+2. In the menu bar, click **Settings**, then click **Configuration**. 
+3. In the window that appears, select the **Terminal** tab if not selected already.
+4. Near the bottom of the window, make sure the checkbox for **Backspace sends ^H** is
+   *unchecked*, then click the **OK** button to close the window.
+   - **The setting does not take effect immediately!** 
+     It will take effect the next time you open **MobaXterm**.
+6. Quit **MobaXterm** app by selecting **Quit** from the **Terminal** menu.
 
 ## Setup `Ctrl-<SPACE>` and `Ctrl-X` (Required)
 
