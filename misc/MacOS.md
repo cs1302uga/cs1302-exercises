@@ -38,7 +38,7 @@ called [Terminal](https://support.apple.com/guide/terminal/welcome/mac).
      
 2. **Explore.** At its core, macOS is powered by a powerful Unix-like kernel called 
    [Darwin](https://en.wikipedia.org/wiki/Darwin_(operating_system)). 
-   Via Terminal, you can interact with your system using most Unix commands.
+   Using Terminal, you can interact with your system using most Unix commands.
 
 ## Use Option as Meta
 
@@ -50,8 +50,10 @@ use the OPTION key as META.
 2. In the menu bar, click **Terminal**, then click **Preferences**.
 3. In the window that appears, select the **Keyboard** tab in the pane that appears to the right.
 4. Near the bottom of the pane, check the box for **Use Option as Meta key.**
-5. Quit the **Terminal** app by selecting **Quit Terminal** from the **File** menu (or by
-   pressing ⌘Q). The setting should take effect the next time you open **Terminal**. 
+   - **The setting does not take effect immediately!** 
+     It will take effect the next time you open **Terminal**.
+6. Quit the **Terminal** app by selecting **Quit Terminal** from the **File** menu (or by
+   pressing ⌘Q). 
 
 ## Install Homebrew
 
@@ -61,19 +63,30 @@ on your Mac via [Terminal](https://support.apple.com/guide/terminal/welcome/mac)
 1. **Open Terminal.**
 
 2. **Install Homebrew.** 
-   To do this, you will need to type a command at the prompt. When presenting such commands, we often
-   prepend the line with a `$` to denote the shell prompt. In exampes like this, the `$` lets you 
-   know that the line that follows is to be typed in your terminal emulator at the shell prompt, 
-   which usually ends with `$` followed by a white-space. 
-   **Do not type or copy this first `$` as it is not part of the command.**
+   To do this, you will need to type a command at the prompt.
+   
+   1. When presenting commands, we often prepend the start of a command line with a `$` 
+      to denote the shell prompt. The `$` lets you know that the line that follows is 
+      something that you should type into your terminal emulator at the shell prompt, 
+      which usually ends with `$` pr `%` followed by a white-space. 
+      **Do not type or copy the `$` before the command name as it is not part of the command.**
 
-   When installing Homebrew, it may ask you for a password. This is the password for your Mac.
-   To begin the installation, type the following command:
-   ```
-   $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-   ```
+   2. When installing Homebrew, the installer may ask you for a password. If it does, then
+      it is referring to the password for your Mac.
+      
+   3. To run the Homebrew installer, type the following command:
+   
+      ```
+      $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+      ```
+      
+   4. Homebrew must be installed to continue. If installation fails, inspect the messages emitted
+      by the installer -- in most cases, it will tell you what you need to do in order to fix
+      the issues that are preventing installation.
 
-3. **Install Utilities.** Type the following command:
+3. **Install Utilities via Homebrew.** Type the following command to install [git](https://git-scm.com/)
+   and [wget](https://www.gnu.org/software/wget/):
+   
    ```
    $ brew install git wget
    ```
@@ -92,6 +105,7 @@ for remote programs that you write later in the semester to your local machine.
 1. **Open Terminal.**
 
 2. **Install XQuartz.** Type the following command:
+3. 
    ```
    $ brew install --cask xquartz
    ```
