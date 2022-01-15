@@ -25,9 +25,10 @@ called [MobaXterm](https://mobaxterm.mobatek.net).
 
 ## Setup Backspace (Required)
 
-MobaXterm often modifies the backspace key to send `C-h` instead of the backspace key.
-This can cause problems if you're used to using the backspace key.
-To fix this issue, follow these steps:
+MobaXterm often modifies the backspace key to send `C-h` (`^H`) instead of the 
+proper backspace key code. This can cause problems if you regularly use the 
+backspace key to perform backward deletions (very common). To fix this issue, 
+follow these steps:
 
 1. Open **MobaXterm**.
 2. In the menu bar, click **Settings**, then click **Configuration**. 
@@ -37,6 +38,30 @@ To fix this issue, follow these steps:
    - **The setting does not take effect immediately!** 
      It will take effect the next time you open **MobaXterm**.
 6. Quit **MobaXterm** app by selecting **Quit** from the **Terminal** menu.
+
+If this is the first time you are reading these instructions, then make a note
+to yourself to return to this section if you encounter backspace issues with
+MobaXterm in the future. The steps below should only be taken if you
+are returning here to resolve a backspace issue:
+
+1. First, try repeating the steps above to *uncheck* the **Backspace sends ^H** 
+   setting -- remember to quit and relaunch **MobaXterm** before attempting to 
+   verify that your issue is fixed.
+   
+2. If you still encounter backspace issues, then **MobaXterm** may not be honoring
+   the *unchecked* state of the **Backspace sends ^H** setting. To remedy that, 
+   open **MobaXterm**, launch a local terminal, but **do NOT connect to Odin**.
+   Instead, enter the commands below to deploy a configuration file that should 
+   fix the issue:
+   
+   ```
+   $ wget http://cobweb.cs.uga.edu/~mec/cs1302/mobaxterm.bashrc
+   $ mv mobaxterm.bashrc .bashrc
+   $ source .bashrc
+   ```
+   
+   Now, you should be able to `ssh` into Odin with MobaXterm and have your
+   beautiful backspace key work as intended!
 
 ## Setup `Ctrl-<SPACE>` and `Ctrl-X` (Required)
 
